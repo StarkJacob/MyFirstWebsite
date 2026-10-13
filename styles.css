@@ -18,6 +18,6 @@ p{
 }
 
 p:hover {
-	color : red;
-	background-color:blue;
+	color : white;
+	background-color: rgba(0, 255, 0, 20);
 }
